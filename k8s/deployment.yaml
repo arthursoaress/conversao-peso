@@ -36,4 +36,4 @@ spec:
       protocol: TCP
       name: http
       nodePort: 30050
-  type: NodePort
+  type: LoadBalancer
